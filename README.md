@@ -112,3 +112,8 @@ Easy to interpret
 Useful for real training decisions
 
 Until that feedback is gathered, the enhancement should remain in the prototype branch for further refinement.
+
+Q4: Integration Decision
+After evaluating the prototype enhancement, the decision is not to merge the prototype branch into the main project at this time. While the fatigue trend indicator shows strong potential, it requires additional feedback from coaches and performance staff to confirm that the metric is clear, actionable, and aligned with real training workflows.
+
+Because further refinement and engagement with decision makers is needed, the prototype branch will remain separate until the enhancement is fully validated.
