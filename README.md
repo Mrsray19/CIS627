@@ -63,4 +63,37 @@ The idea is still being shaped and aligned with organizational needs.
 
 No iteration, testing, or stakeholder engagement has occurred.
 
-The focus is on articulating the problem and proposing a solution, which is the hallmark of the creative phase.
+The focus is on articulating the problem and proposing a solution, which is the hallmark of the creative phase. Prototype Enhancement
+Enhancement Overview
+This prototype explores an improvement to the original pacing‑consistency idea by adding a fatigue‑indicator metric that complements the consistency score. While the original concept focused solely on variation in split times, this enhancement introduces a second dimension: how pacing changes over the course of a workout, which can help coaches detect early or late‑session fatigue patterns.
+
+What Is Being Changed
+The original idea measured pacing consistency using variation around target pace.
+The enhancement adds: A Fatigue Trend Indicator
+A simple metric that compares early‑session pacing to late‑session pacing. It highlights whether an athlete:
+
+Maintains pace throughout the workout
+
+Slows down progressively
+
+Speeds up unexpectedly (e.g., sandbagging early reps)
+
+This indicator would be displayed alongside the consistency score. Why This Change Could Improve Decision-Making
+Coaches often rely on subjective observations to determine whether an athlete is fatiguing. By quantifying fatigue trends:
+
+Coaches gain objective evidence of when pacing breaks down
+
+Training load decisions become more precise
+
+Athletes receive clearer feedback about endurance and pacing discipline
+
+Performance staff can identify whether inconsistency is due to fatigue or pacing strategy
+
+This enhancement strengthens the tool’s usefulness by connecting consistency to physiological readiness, making it more actionable for weekly training adjustments. Prototype Status
+This enhancement is still in the prototyping phase, meaning:
+
+The idea is being explored without affecting the main branch
+
+The metric definition may change based on feedback
+
+No implementation or data processing is required at this stage
