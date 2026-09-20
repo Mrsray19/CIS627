@@ -64,9 +64,10 @@ The idea is still being shaped and aligned with organizational needs.
 No iteration, testing, or stakeholder engagement has occurred.
 
 The focus is on articulating the problem and proposing a solution, which is the hallmark of the creative phase.
+
 Q3: Prototype Evaluation
 Should the Prototype Enhancement Be Integrated?
-The prototype enhancement — adding a fatigue trend indicator alongside the pacing‑consistency score — shows meaningful potential, but it is not yet ready for full integration into the main project. While the concept strengthens the decision‑support value of the tool, it requires additional feedback from coaches and performance staff to ensure it aligns with real training workflows.
+The prototype enhancement adding a fatigue trend indicator alongside the pacing‑consistency score shows meaningful potential, but it is not yet ready for full integration into the main project. While the concept strengthens the decision‑support value of the tool, it requires additional feedback from coaches and performance staff to ensure it aligns with real training workflows.
 
 At this stage, the enhancement should remain in the prototype branch until decision makers confirm that the added complexity improves clarity rather than creating confusion.
 
