@@ -117,3 +117,8 @@ Q4: Integration Decision
 After evaluating the prototype enhancement, the decision is not to merge the prototype branch into the main project at this time. While the fatigue trend indicator shows strong potential, it requires additional feedback from coaches and performance staff to confirm that the metric is clear, actionable, and aligned with real training workflows.
 
 Because further refinement and engagement with decision makers is needed, the prototype branch will remain separate until the enhancement is fully validated.
+
+Q5: Reflection on Innovation and Version Control
+GitHub’s branching workflow directly supports the innovation process described in Alamar (2024) by enabling analytics teams to explore new ideas without disrupting core operations. Branches create a safe environment for low‑risk experimentation, allowing analysts to prototype metrics, test enhancements, and document ideas while keeping the main project stable. This mirrors how sports organizations evaluate new analytics concepts: test them in isolation, gather feedback, and refine before adoption.
+
+GitHub also helps analytics ideas gain traction with decision makers by making the evolution of an idea visible. Clear documentation, commit messages, and pull requests allow coaches, managers, and performance staff to understand not only what the idea is, but how it developed. This transparency builds trust and supports the engagement phase of innovation, where stakeholders evaluate whether a concept fits their workflow.
